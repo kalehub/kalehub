@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Teguh Satya (@kalehub)</h1>
-<h3 align="center">A computer science student. Having interest in Data Mining, Artificial Intelligence and Machine Learning.</h3>
+<h3 align="center">A learner. Having interest in Data Mining, Artificial Intelligence and Machine Learning.</h3>
 
-- 🌱 I’m currently learning **Python 3, OpenCV, tensorflow, data-mining algorithm**
+- 🌱 I’m currently learning **Python 3, Javascript, data-mining algorithm**
 
 - 👨‍💻 All of my projects are available at [github.com/kalehub](github.com/kalehub)
 
 - 💬 Ask me about **anything! (I'll do my best to answer)**
 
 - 📫 How to reach me **teguhsatyadhr@gmail.com**
+
+- 🎓 Bachelor Degree of Computer Science in Udayana University
 
 - 📄 Know about my experiences [kalehub.space/get/resume](kalehub.space/get/resume)
 
